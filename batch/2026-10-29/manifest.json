@@ -1,0 +1,37 @@
+{
+ "start": "2026-10-29",
+ "days": 1,
+ "items": [
+  {
+   "date": "2026-10-29",
+   "time": "09:30",
+   "type": "POST",
+   "theme": "price",
+   "url": "https://raw.githubusercontent.com/Rohitberlia123/ars-media/main/batch/2026-10-29/2026-10-29-p1.jpg",
+   "caption": "𝗔𝗦𝗞 𝗙𝗢𝗥 𝗧𝗢𝗗𝗔𝗬'𝗦 𝗣𝗥𝗜𝗖𝗘\n\nGet ready-made TMT rings at competitive prices. Share your requirement and get today's quotation.\n\n✓ 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗽𝗿𝗶𝗰𝗶𝗻𝗴\n✓ 𝗖𝘂𝘀𝘁𝗼𝗺 𝘀𝗶𝘇𝗲𝘀\n✓ 𝗤𝘂𝗶𝗰𝗸 𝗾𝘂𝗼𝘁𝗮𝘁𝗶𝗼𝗻\n\nShare your ring size, shape, TMT diameter and quantity for today's price.\n\n📞 Call / WhatsApp: 7381757575 | 8917206566\n📍 ARS TRADING COMPANY, Kantapali Goshala, Sambalpur, Odisha - 768003\n\n#TMTRings #ReadyMadeRings #CutAndBend #JSWNeo #Sambalpur #Odisha #OdishaConstruction #Contractors #Builders #Construction #Bhubaneswar #Brajrajnagar #Boudh #Ganjam"
+  },
+  {
+   "date": "2026-10-29",
+   "time": "13:00",
+   "type": "REEL",
+   "theme": "labour",
+   "url": "https://raw.githubusercontent.com/Rohitberlia123/ars-media/main/batch/2026-10-29/2026-10-29-reel.mp4",
+   "cover": "https://raw.githubusercontent.com/Rohitberlia123/ars-media/main/batch/2026-10-29/2026-10-29-reel-cover.jpg",
+   "caption": "𝗦𝗔𝗩𝗘 𝗦𝗜𝗧𝗘 𝗟𝗔𝗕𝗢𝗨𝗥\n\nFinding skilled labour for ring bending is hard. With ready-made rings, your mistris can start tying straight away.\n\n✓ 𝗦𝗮𝘃𝗲𝘀 𝘀𝗶𝘁𝗲 𝗹𝗮𝗯𝗼𝘂𝗿\n✓ 𝗠𝗶𝘀𝘁𝗿𝗶-𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆\n✓ 𝗥𝗲𝗮𝗱𝘆 𝗳𝗼𝗿 𝗱𝗶𝘀𝗽𝗮𝘁𝗰𝗵\n\nShare your ring size, shape, TMT diameter and quantity for today's price.\n\n📞 Call / WhatsApp: 7381757575 | 8917206566\n📍 ARS TRADING COMPANY, Kantapali Goshala, Sambalpur, Odisha - 768003\n\n#TMTRings #ReadyMadeRings #CutAndBend #JSWNeo #Sambalpur #Odisha #OdishaConstruction #Contractors #Builders #Construction #Bhubaneswar #Nuapada #Deogarh #Puri"
+  }
+ ],
+ "blocked": [],
+ "spent": {
+  "images": 1,
+  "videos": 1,
+  "errors": [],
+  "run_budget_usd": 3.0,
+  "images_estimated_usd": 0.07,
+  "video_requested_estimated_usd": 1.0,
+  "video_estimated_usd": 1.0,
+  "requested_total_estimated_usd": 1.07,
+  "total_estimated_usd": 1.07,
+  "budget_gate": "approved",
+  "video_budget_gate": "approved"
+ }
+}
