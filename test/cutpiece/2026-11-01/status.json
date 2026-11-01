@@ -1,0 +1,28 @@
+{
+ "campaign": "every-missing-cut-piece",
+ "date": "2026-11-01",
+ "status": "FAILED",
+ "publish": "DISABLED",
+ "assets": {},
+ "errors": [
+  "image gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+  "master character image failed: image gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai."
+ ],
+ "notes": [
+  "budget: 2 AI clips would cost ~INR 207 > 200; using 1 AI clip(s), the rest animated with zoom/pan"
+ ],
+ "budget": {
+  "max_inr": 200.0,
+  "image_usd_each": 0.07,
+  "clip_usd_each": 1.0,
+  "images": 6,
+  "ai_clips": 1,
+  "estimated_usd": 1.43,
+  "estimated_inr": 122
+ },
+ "spent": {
+  "images": 0,
+  "videos": 0,
+  "errors": []
+ }
+}
