@@ -1,0 +1,35 @@
+{
+ "start": "2026-11-13",
+ "days": 1,
+ "items": [],
+ "blocked": [],
+ "spent": {
+  "images": 0,
+  "videos": 0,
+  "errors": [
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "img gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.",
+   "nb still gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your projec",
+   "nb still gemini-3.1-flash-image 402 {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your projec"
+  ],
+  "reel_mode": "nano_banana",
+  "run_budget_usd": 3.0,
+  "images_estimated_usd": 0.28,
+  "video_requested_estimated_usd": 0.28,
+  "video_estimated_usd": 0.28,
+  "requested_total_estimated_usd": 0.56,
+  "total_estimated_usd": 0.56,
+  "budget_gate": "approved",
+  "video_budget_gate": "approved"
+ }
+}
